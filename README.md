@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://github.com/ctd3vv/DroidPriv_site/raw/main/assets/logo.png" width="200">
+  <img src="https://raw.githubusercontent.com/ctd3vv/DroidPriv_site/refs/heads/main/logo.png" width="200">
 </p>
 
 <h1 align="center">DroidPriv</h1>
